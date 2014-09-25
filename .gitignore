@@ -1,0 +1,37 @@
+packages/WPFSpark\.1\.1/
+
+_ReSharper
+\.ipch$
+\.opensdf$
+\.sdf$
+\.swp$
+SecureStorage\.bin
+Doc/~
+tcsdlog\.txt$
+tspilog\.txt$
+\.trousers$
+
+syntax: glob
+
+# Files
+*.ncb
+*.user
+*.suo
+*.pdb
+*.obj
+*.cache
+*.filters
+CommonVersionInfo.*
+*.aps
+*.opensdf
+RCa*
+
+# Directories
+.out/
+bin/
+obj/
+tmp/
+Debug/
+Release/
+XgsOS.Kernel/Native/Client/SecureStorage.txt
+
